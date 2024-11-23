@@ -1,3 +1,5 @@
+
+<img title="repo views" src="https://github.com/ArviiSoft/goodbyedpi">
 # GoodbyeDPI - Quick, Startup and Invisible Setup
 
 This script runs GoodbyeDPI once and makes it a startup application so you don't have to run it every time. It also runs invisibly in the background so you won't see it in your taskbar.
